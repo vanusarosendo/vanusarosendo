@@ -66,14 +66,10 @@ Embora minha atuação seja voltada à análise e implantação de sistemas, tam
 
 ## 📈 Estatísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanusarosendo&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanusarosendo&layout=compact&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanusarosendo&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanusarosendo&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
 
 ## 🌎 Vamos nos conectar
